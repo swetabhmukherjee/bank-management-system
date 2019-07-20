@@ -1,0 +1,1 @@
+create table accounts(account_no varchar2(10),name varchar2(20),date_of_opening varchar2(10),deposit_amount varchar2(10),address varchar2(25),mob_no varchar2(10),email varchar2(20),proposers_acc_no varchar2(10));

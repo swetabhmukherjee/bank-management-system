@@ -1,0 +1,46 @@
+Menu: Account
+
+Option 1: New Account
+Option 2: Update Account
+Option 3: Delete Account
+
+Choose
+Option 1: (New Account) To create new account,you have to fill all the details mentioned in the form and click on the create button and your account will be created.
+          
+Choose
+Option 2: (Update Account) Once you have created your account,you can update your particular details such as Name,Address,mobile no. and email.Type the Account no. 
+			   and click on the update button.Now, click on the Change button,do the necessary changes and then click on the submit button to update your 
+			   account
+
+Choose
+Option 3: (Delete Account) Once you have created your account,you can delete your account whenever you want.Type your account no. and click on delete button.This will 
+		           delete your account.
+___________________________________________________________________________________________________
+Menu: Transaction
+
+Option 1: Deposit
+Option 2: Withdrawl
+Option 3: Balance Enquiry
+
+Choose
+Option 1: (Deposit) Once you have created your account,you can deposit money in your account by typing your account no. and amount that is to be deposited.
+
+Choose   
+Option 2: (Withdrawl)Once you have created your account,you can withdraw money from your account by typing your account no. and amount that is to be withdrawn.
+
+Choose
+Option 3: (Balance Enquiry)To know your current balance,simply type your account no. and get your balance.
+_______________________________________________________________________________________________________ 
+Menu3: Show
+
+Option 1: Account Detail
+Option 2: Account Holder's list
+
+Choose
+Option 1: (Account Detail) You can get the details of your account on the basis of account no.,name or mobile number.Type either of the three and get your account details.
+
+Choose   
+Option 2: (Account Holder's list) You can get the account holders details on the basis of-
+				  List all-It will provide the details of all the account holders.
+				  Below min.amt-It will provide the details of the account holders having balance less than the minimum account.
+
